@@ -5,7 +5,7 @@ Analytics portfolio
 * performing sentiment analysis.
 * Wordcloud Analysis of data.
 * performing Emoji Analysis.
-*Collect Entire Data of Youtube.
-*Which Category has the maximum likes ?
-*Find out whether audience is engaged or not.
-*Which channels have the largest number of trending videos?
+* Collect Entire Data of Youtube.
+* Which Category has the maximum likes?
+* Find out whether audience is engaged or not.
+* Which channels have the largest number of trending videos?
