@@ -1,6 +1,5 @@
-<h1>Hi, I'm Mohammad 
-
-## <h2>👨‍💻 Data Analysis Projects using python :</h2>
+# Mohammad Alkhrissat Portfolio
+Analystics projects using Python 
 
 ## [project 1: Youtube Analysis](https://github.com/mohammadkhresat/Mohammad_Portfolio/blob/main/youtube_analysis.ipynb)
 
