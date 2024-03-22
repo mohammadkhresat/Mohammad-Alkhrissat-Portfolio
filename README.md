@@ -1,5 +1,5 @@
 # Mohammad Alkhrissat Portfolio
-Analystics projects using Python 
+Analytics projects using Python 
 
 ## [project 1: Youtube Analysis](https://github.com/mohammadkhresat/Mohammad_Portfolio/blob/main/youtube_analysis.ipynb)
 
