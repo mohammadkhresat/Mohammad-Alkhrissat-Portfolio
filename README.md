@@ -5,14 +5,13 @@ Analytics Projects using Python
 * Performing sentiment analysis.
 * Wordcloud Analysis of data.
 * performing Emoji Analysis.
-* Collect Entire Data of Youtube.
 * Which Category has the maximum likes?
-* Find out whether audience is engaged or not.
+* Finding out whether audience is engaged or not.
 * Which channels have the largest number of trending videos?
 
 # [project 2: Stock Price Analysis](https://github.com/mohammadkhresat/mohammad-portfolio/blob/main/stock%20price%20MK.ipynb)
 * Analysing change in price of the stock overtime.
 * What was the moving average of the various stocks?
-* Analyse Closing price change in apple stock. 
+* Analyzing  Closing price change in apple stock. 
 * Performing resampling analysis of closing price.
 * Closing prices of these tech companies (Amazon,Apple,Google,Microsoft) are correlated or not.
