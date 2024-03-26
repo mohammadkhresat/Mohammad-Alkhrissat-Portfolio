@@ -8,7 +8,7 @@ Analytics projects using Python
 * Which Category has the maximum likes?
 * Finding out whether audience is engaged or not.
 * Which channels have the largest number of trending videos?
-## [project 2: Stock Price Analysis](https://github.com/mohammadkhresat/mohammad-portfolio/blob/main/stock%20price%20MK.ipynb)
+## [project 2: Stock Price Analysis](https://github.com/mohammadkhresat/Python_projects/blob/main/stock%20price%20MK%20(1).ipynb)
 * Analysing change in price of the stock overtime.
 * What was the moving average of the various stocks?
 * Analyzing  Closing price change in apple stock. 
