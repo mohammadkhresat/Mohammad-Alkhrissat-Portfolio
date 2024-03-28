@@ -1,7 +1,7 @@
 # Mohammad Alkhrissat Portfolio
 Analytics projects using Python 
 
-## [project 1: Youtube case strudy (Text Data Analysis)](https://github.com/mohammadkhresat/Mohammad_Portfolio/blob/main/youtube_analysis.ipynb)
+##  [project 1: Youtube case strudy (Text Data Analysis)](https://github.com/mohammadkhresat/Mohammad_Portfolio/blob/main/youtube_analysis.ipynb)
 * Performing sentiment analysis.
 * Wordcloud Analysis of data.
 * performing Emoji Analysis.
