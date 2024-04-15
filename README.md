@@ -19,15 +19,15 @@ Analytics projects using Python
 * Data Cleaning to perform Text Analysis.
 * Performing Unigram analysis/BI_gram & removal of stopwords.
 * Extracting geographical-coordinates from data.
-## [project 4:uber ] (https://github.com/mohammadkhresat/Python_projects/blob/main/uber_analysis_mk.ipynb)
- *Which month have max. Uber pickups in New York City ?
- *Hourly Rush in New york city on all days.
- *Which Base_number has most number of Active Vehicles ??
- *what locations of New York City we are getting rush?
+## [project 4:uber](https://github.com/mohammadkhresat/Python_projects/blob/main/uber_analysis_mk.ipynb)
+* Which month have max. Uber pickups in New York City?
+* Hourly Rush in New york city on all days.
+* Which Base_number has most number of Active Vehicles?
+* what locations of New York City we are getting rush?
 ## [ project 5:Amazon](https://github.com/mohammadkhresat/Python_projects/blob/main/Amazon_analysis_mk.ipynb)
- *which product has good number of reviews ?
- *Is there any difference between behaviour of frequent viewers & not frequent viewers ?
- *Are frequent users more verbose ?
+* which product has good number of reviews?
+* Is there any difference between behaviour of frequent viewers & not frequent viewers?
+* Are frequent users more verbose?
 ## [project 6:Bitcoin](https://github.com/mohammadkhresat/Python_projects/blob/main/bitcoin_analysis_mk%20(1).ipynb)
  * Analysing change in price of the stock overtime?
  * Analysing open , high , low , close value of Bitcoin !
