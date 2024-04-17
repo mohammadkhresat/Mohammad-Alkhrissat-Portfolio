@@ -33,6 +33,6 @@ Analytics projects using Python
  * Analysing open , high , low , close value of Bitcoin !
  * Analysing closing price (on normal scale & log-scale
  * Analyse closing Price on Yearly , Quarterly , monthly basis
- * analysing Daily change in Closing price of stocks
- ## [project 7:covid 19](https://github.com/mohammadkhresat/Python_projects/blob/main/Covid_19_mk.ipynb)
+ * analysing Daily change in Closing price of stocks.
+## [project 7:covid 19](https://github.com/mohammadkhresat/Python_projects/blob/main/Covid_19_mk.ipynb)
  
